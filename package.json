@@ -1,0 +1,28 @@
+{
+  "name": "clean-architecture-typescript-bdd-specs",
+  "version": "1.0.0",
+  "description": "Application developed with clean architecture and BDD (Behavior Driven Development) concepts",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ArikBartzadok/clean-architecture-typescript-bdd-specs.git"
+  },
+  "keywords": [
+    "nodejs",
+    "cleanarchitecture",
+    "bdd"
+  ],
+  "author": "Diogo Ferreira dos Santos",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ArikBartzadok/clean-architecture-typescript-bdd-specs/issues"
+  },
+  "homepage": "https://github.com/ArikBartzadok/clean-architecture-typescript-bdd-specs#readme",
+  "devDependencies": {
+    "@types/node": "^17.0.17",
+    "typescript": "^4.5.5"
+  }
+}
