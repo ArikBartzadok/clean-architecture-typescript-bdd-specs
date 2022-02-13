@@ -1,4 +1,4 @@
-namespace SavePurchasesNamespace {
+export namespace SavePurchasesNamespace {
   export type PurchaseModel = {
     id: string
     date: Date
